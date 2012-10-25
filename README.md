@@ -45,6 +45,26 @@ Then you could get both easyXDM and your code by refering to:
     http://your-host/assets/bookmarklet.js
 
 
+Example
+-------------
+
+You can check the source for the easyxdm-rails-example project:
+
+https://github.com/Octo-Labs/easyxdm-rails-example
+
+You can also see tha project deployed here:
+
+http://easyxdm-rails-example.herokuapp.com/
+
+You can see easyXDM included in the application.js here:
+
+http://easyxdm-rails-example.herokuapp.com/assets/application.js
+
+And you can see it delivered by itself here:
+
+http://easyxdm-rails-example.herokuapp.com/assets/easyxdm-rails/easyXDM.js
+
+
 This project rocks and uses MIT-LICENSE.
 
 
