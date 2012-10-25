@@ -5,7 +5,7 @@ easyxdm-rails is the easiest way to include easyXDM in your rail app.
 
 Currently includes files from : easyXDM-2.4.16.3.zip
 
-Intallation
+Installation
 --------------
 
 Add this to your Gemfile:
