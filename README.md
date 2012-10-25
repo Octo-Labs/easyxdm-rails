@@ -12,6 +12,10 @@ Add this to your Gemfile:
 
     gem 'easyxdm-rails'
 
+Then, of course, you need to run:
+    
+    bundle install
+
 Then you can add this to one of your js manifest files (like
 app/assets/javascripts/application.js)
 
@@ -52,7 +56,7 @@ You can check the source for the easyxdm-rails-example project:
 
 https://github.com/Octo-Labs/easyxdm-rails-example
 
-You can also see tha project deployed here:
+You can also see that project deployed here:
 
 http://easyxdm-rails-example.herokuapp.com/
 
