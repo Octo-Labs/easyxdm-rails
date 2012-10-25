@@ -7,13 +7,13 @@ require "easyxdm-rails/version"
 Gem::Specification.new do |s|
   s.name        = "easyxdm-rails"
   s.version     = EasyxdmRails::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of EasyxdmRails."
-  s.description = "TODO: Description of EasyxdmRails."
+  s.authors     = ["Jeremy Green"]
+  s.email       = ["jeremy@octolabs.com"]
+  s.homepage    = "https://github.com/Octo-Labs/easyxdm-rails"
+  s.summary     = "Add easyXDM to your app."
+  s.description = "Add easyXDM to your app."
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.md"]
 
   s.add_dependency "rails", "~> 3.2.8"
   # s.add_dependency "jquery-rails"
