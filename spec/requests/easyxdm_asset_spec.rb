@@ -18,8 +18,6 @@ describe "easyXDM assets:" do
     response.should be_success
   end
 
-
-
   it "delivers /assets/easyxdm-rails/easyXDM.Widgets.js" do
     get '/assets/easyxdm-rails/easyXDM.Widgets.js'
     response.should be_success
@@ -35,12 +33,10 @@ describe "easyXDM assets:" do
     response.should be_success
   end
 
-
   it "delivers /assets/easyxdm-rails/easyxdm.swf" do
     get '/assets/easyxdm-rails/easyxdm.swf'
     response.should be_success
   end
-
   
   it "delivers /assets/easyxdm-rails/json2.js" do
     get '/assets/easyxdm-rails/json2.js'
