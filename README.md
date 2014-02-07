@@ -8,6 +8,8 @@ Currently includes files from : easyXDM-2.4.19.3.zip
 [![Gem Version](https://badge.fury.io/rb/easyxdm-rails.png)](http://badge.fury.io/rb/easyxdm-rails)
 [![Build Status](https://travis-ci.org/Octo-Labs/easyxdm-rails.png?branch=master)](https://travis-ci.org/Octo-Labs/easyxdm-rails)
 [![Code Climate](https://codeclimate.com/repos/52f46afce30ba065310000f0/badges/4de5c731c9291aebd88b/gpa.png)](https://codeclimate.com/repos/52f46afce30ba065310000f0/feed)
+[![Coverage Status](https://coveralls.io/repos/Octo-Labs/easyxdm-rails/badge.png)](https://coveralls.io/r/Octo-Labs/easyxdm-rails)
+
 
 
 Installation
