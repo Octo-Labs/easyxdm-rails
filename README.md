@@ -3,7 +3,9 @@ easyxdm-rails
 
 easyxdm-rails is the easiest way to include easyXDM in your rail app.
 
-Currently includes files from : easyXDM-2.4.18.25.zip
+Currently includes files from : easyXDM-2.4.19.3.zip
+
+[![Gem Version](https://badge.fury.io/rb/easyxdm-rails.png)](http://badge.fury.io/rb/easyxdm-rails)
 
 Installation
 --------------
