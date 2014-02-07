@@ -830,7 +830,7 @@ function removeFromStack(element){
 /** 
  * @class easyXDM
  * A javascript library providing cross-browser, cross-domain messaging/RPC.
- * @version 2.4.18.25
+ * @version 2.4.19.3
  * @singleton
  */
 apply(easyXDM, {
@@ -838,7 +838,7 @@ apply(easyXDM, {
      * The version of the library
      * @type {string}
      */
-    version: "2.4.18.25",
+    version: "2.4.19.3",
     /**
      * This is a map containing all the query parameters passed to the document.
      * All the values has been decoded using decodeURIComponent.
@@ -1180,6 +1180,9 @@ easyXDM.DomHelper = {
          */
         get: function(name, del){
             this._trace("retrieving function " + name);
+            if (!_map.hasOwnProperty(name)) {
+                return;
+            }
             var fn = _map[name];
             if (!fn) {
                 this._trace(name + " not found");
