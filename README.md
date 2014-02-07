@@ -71,7 +71,6 @@ And you can see it delivered by itself here:
 http://easyxdm-rails-example.herokuapp.com/assets/easyXDM.js
 
 
-
 This project rocks and uses MIT-LICENSE.
 
 
